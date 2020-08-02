@@ -1,0 +1,32 @@
+* {
+	margin: 0;
+	padding: 0;
+    box-sizing: border-box;
+    cursor: crosshair;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 100px;
+    
+}
+
+div {
+    position: absolute;
+    transition: 0.4s ease;
+    height: 25%;
+
+}
+
+
+body {
+    background: url(../img/1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+html, body {height: 100%}
+
